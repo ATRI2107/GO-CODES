@@ -6,7 +6,7 @@ var y = 42 // var can be used to decalre variables outside the function body unl
 
 // Declare there is a variable with a variable name
 // and that identifier is of TYPE int
-// assigns the ZERO value of int to the variable
+// assigns the ZERO (default value for every specific data type) value of int to the variable
 
 var z int
 
