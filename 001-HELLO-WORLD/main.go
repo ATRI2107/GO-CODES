@@ -13,5 +13,5 @@ func main() {
 }
 
 func foo() {
-	fmt.Println("I am in Foo")
+	fmt.Println("I'm in foo")
 }
